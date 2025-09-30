@@ -23,7 +23,7 @@ Sorting Visualizer is an interactive web application that helps users understand
 
 1. 📥 Clone the repository:
    ```sh
-   git clone https://github.com/maahidhaka/Sorting-Visualizer.git
+   git clone https://github.com/sid090704/Sort-Visualiser
    ```
 2. 📂 Navigate to the project folder:
    ```sh
@@ -44,6 +44,7 @@ Feel free to fork the repository and submit pull requests for improvements. Any 
 ## 📜 License
 
 This project is licensed under the MIT License. ✅
+
 
 
 
